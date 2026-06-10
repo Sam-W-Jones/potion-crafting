@@ -1,0 +1,68 @@
+.potion-craft-btn {
+  cursor: pointer;
+  margin-left: 8px;
+  color: #b5a060;
+  font-size: 13px;
+}
+
+.potion-craft-btn:hover {
+  color: #f0d060;
+}
+
+.potion-crafting-dialog {
+  padding: 8px;
+  font-family: "Signika", sans-serif;
+}
+
+.gold-display {
+  text-align: right;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #b5a060;
+}
+
+.potion-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 4px;
+  border-bottom: 1px solid #c9ad6a44;
+}
+
+.potion-row img {
+  width: 36px;
+  height: 36px;
+  border: none;
+}
+
+.potion-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  font-size: 13px;
+}
+
+.potion-info span {
+  font-size: 11px;
+  color: #888;
+}
+
+.potion-cost {
+  font-size: 13px;
+  color: #b5a060;
+  white-space: nowrap;
+}
+
+.craft-btn {
+  background: #4a3728;
+  color: #f0d060;
+  border: 1px solid #b5a060;
+  border-radius: 4px;
+  padding: 4px 10px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.craft-btn:hover {
+  background: #6b4f3a;
+}
