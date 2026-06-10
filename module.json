@@ -7,7 +7,7 @@
     "minimum": "11",
     "verified": "11"
   },
-  "authors": [{ "Sam": "Jones" }],
+  "authors": [{ "name": "Sam Jones" }],
   "esmodules": ["scripts/main.js"],
   "styles": ["styles/potion-crafting.css"],
   "languages": [],
